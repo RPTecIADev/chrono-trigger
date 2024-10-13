@@ -17,29 +17,29 @@ vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem
 
 
 // precisamos criar duas variáveis no JS pra trabalhar com os elementos da tela
-const listaSelecaoPokedevs = document.querySelectorAll('.pokedev')
+const listaSelecaoPersonagem = document.querySelectorAll('.personagem')
 
-listaSelecaoPokedevs.forEach(pokedev => {
+listaSelecaoPersonagem.forEach(personagem => {
     //vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem de pokedevs
 
-    pokedev.addEventListener('click', () => {
+    personagem.addEventListener('click', () => {
         //remover a classe aberto só do cartão que está aberto
-        const cartaoPokedevAberto = document.querySelector('.aberto')        
-        cartaoPokedevAberto.classList.remove('aberto')
+        const cartaoPersonagemAberto = document.querySelector('.aberto')        
+        cartaoPersonagemAberto.classList.remove('aberto')
 
         //ao clicar em um pokedev da listagem pegamos o id desse pokedev pra saber qual cartão mostrar
-        const idPokedevSelecionado = pokedev.attributes.id.value
+        const idPersonagemSelecionado = personagem.attributes.id.value
 
-        const idDoCartaoPokedevParaAbrir = 'cartao-' + idPokedevSelecionado
-        const cartaoPokedevParaAbrir = document.getElementById(idDoCartaoPokedevParaAbrir)
-        cartaoPokedevParaAbrir.classList.add('aberto')
+        const idDoCartaoPersonagemParaAbrir = 'cartao-' + idPersonagemSelecionado
+        const cartaoPersonagemParaAbrir = document.getElementById(idDoCartaoPersonagemParaAbrir)
+        cartaoPersonagemParaAbrir.classList.add('aberto')
 
         //remover a classe ativo que marca o pokedev selecionado
-        const pokedevAtivoNaListagem = document.querySelector('.ativo')
-        pokedevAtivoNaListagem.classList.remove('ativo')
+        const personagemAtivoNaListagem = document.querySelector('.ativo')
+        personagemAtivoNaListagem.classList.remove('ativo')
 
         //adicionar a classe ativo no item da lista selecionado 
-        const pokedevSelecionadoNaListagem = document.getElementById(idPokedevSelecionado)
-        pokedevSelecionadoNaListagem.classList.add('ativo')
+        const personagemSelecionadoNaListagem = document.getElementById(idPersonagemSelecionado)
+        personagemSelecionadoNaListagem.classList.add('ativo')
     })
 })
