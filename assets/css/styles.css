@@ -1,6 +1,6 @@
 body {
     font-family: "Poppins", sans-serif;
-    background-image: url("../images/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("../images/fundo.jpg");
     background-position: center;
     background-size: cover;
   }
@@ -95,8 +95,8 @@ body {
     overflow-y: scroll;
   }
   
-  .tipo-espadachim {
-    background-color: #0068f0;
+  .tipo-luz {
+    background-color: #ffd903;
   }
   
   .tipo-cura {
@@ -107,16 +107,16 @@ body {
     background-color: #015c98;
   }
   
-  .tipo-grama {
-    background-color: #49d0b0;
+  .tipo-fogo {
+    background-color: #f80303;
   }
   
-  .tipo-trevas {
-    background-color: #ba68c8;
+  .tipo-mago {
+    background-color: #740088;
   }
   
-  .tipo-fada {
-    background-color: #c29791;
+  .tipo-lutador {
+    background-color: #831405;
   }
   
   .listagem {
