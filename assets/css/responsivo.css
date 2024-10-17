@@ -1,5 +1,5 @@
 @media (max-width: 750px) {
-    .personagem {
+    .personagens {
       flex-direction: column;
       align-items: center;
       padding: 20px 0;

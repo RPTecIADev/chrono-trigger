@@ -17,7 +17,7 @@ body {
     
   }
   
-  .personagem {
+  .personagens {
     display: flex;
     flex-direction: row;
     gap: 30px;
