@@ -10,7 +10,7 @@ Saudações, viajante do tempo! Você acaba de abrir um portal para o projeto **
 O objetivo deste projeto é apresentar os heróis de Chrono Trigger de uma forma visualmente impactante, utilizando animações fluidas e uma interface limpa, servindo como um excelente exemplo de uma Single Page Application (SPA) moderna.
 
 ## 💻🔗📜 Site do Projeto
-[Chrono](https://chrono-trigger-delta.vercel.app/)
+[Chrono Trigger](https://chrono-trigger-delta.vercel.app/)
 
 <a><img src="./assets/images/Captura de tela.jpg"></a>
 
@@ -42,17 +42,7 @@ Para construir nossa máquina do tempo, utilizamos as seguintes tecnologias de p
 ## 🗺️ Mapa do Tempo (Estrutura do Projeto)
 
 O projeto está organizado de forma lógica para facilitar a navegação e a manutenção:
-
-/
-├── public/                # Arquivos estáticos e imagens dos personagens
-├── src/
-│   ├── assets/            # SVGs e outros assets gerais
-│   ├── components/        # Componentes reutilizáveis da UI (Card, Header, etc.)
-│   ├── data/              # Mock de dados dos personagens (personagens.js)
-│   ├── App.jsx            # Componente principal que organiza o layout
-│   └── main.jsx           # Ponto de entrada da aplicação
-├── package.json           # Dependências e scripts do projeto
-└── vite.config.js         # Configurações do Vite
+<a><img src="./assets/images/readme.jpg"></a>
 
 ## 🚀 Abrindo um Portal Temporal (Como Rodar o Projeto)
 
@@ -95,6 +85,7 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 ## ✒️ Autor
 
 **Rafael Rodrigues Pereira** - **Uma homenagem de um fã para outros fãs.** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
 
 
 
