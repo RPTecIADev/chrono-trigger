@@ -14,7 +14,7 @@ O objetivo deste projeto é apresentar os heróis de Chrono Trigger de uma forma
 
 <a><img src="./assets/images/Captura de tela.jpg"></a>
 
-Como desenvolvedor sênior, analisei a arquitetura e as escolhas tecnológicas deste repositório. O projeto demonstra um domínio claro de conceitos modernos de frontend:
+O projeto demonstra um domínio claro de conceitos modernos de frontend:
 
 -   **Arquitetura de Componentes:** A estrutura é bem organizada, separando a aplicação em componentes reutilizáveis (`Card`, `Header`, `Footer`, etc.), o que é uma excelente prática para manutenibilidade e escalabilidade.
 -   **Gerenciamento de Estilos:** A escolha do **Styled Components** para o CSS-in-JS é notável. Ela garante que os estilos sejam encapsulados e escopados, evitando conflitos de CSS e mantendo o código dos componentes limpo e coeso.
@@ -85,6 +85,7 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 ## ✒️ Autor
 
 **Rafael Rodrigues Pereira** - **Uma homenagem de um fã para outros fãs.** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
 
 
 
