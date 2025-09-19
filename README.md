@@ -49,7 +49,6 @@ Para construir nossa máquina do tempo, utilizamos as seguintes tecnologias de p
 
 O projeto está organizado de forma lógica para facilitar a navegação e a manutenção:
 
-'''bash
 /
 ├── public/                # Arquivos estáticos e imagens dos personagens
 ├── src/
@@ -60,7 +59,6 @@ O projeto está organizado de forma lógica para facilitar a navegação e a man
 │   └── main.jsx           # Ponto de entrada da aplicação
 ├── package.json           # Dependências e scripts do projeto
 └── vite.config.js         # Configurações do Vite
-'''
 
 ## 🚀 Abrindo um Portal Temporal (Como Rodar o Projeto)
 
@@ -110,6 +108,7 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 
 ## 💻 Site do Projeto
 [Resultado]()
+
 
 
 
