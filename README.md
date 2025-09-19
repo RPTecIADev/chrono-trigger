@@ -1,16 +1,10 @@
-﻿# Chrono Trigger
 
-<a><img src="./assets/images/readme.png"></a>
-
-Um clássico do SNES e um dos melhores RPGs que marcou uma geração e moldou os que vieram depois...
-
-## 🕹️Chrono Trigger
 
 <a><img src="./assets/images/Captura de tela.jpg"></a>
 
 # ⏳ Chrono Trigger: Uma Viagem no Tempo com React ⏳
 
-![Logo do Chrono Trigger](https://raw.githubusercontent.com/RPTecIADev/chrono-trigger/main/src/assets/chrono-logo.svg)
+<a><img src="./assets/images/readme.png"></a>
 
 ### "Não é a força que importa, mas sim o coração que a comanda." - _Lucca Ashtear_
 
@@ -18,7 +12,7 @@ Saudações, viajante do tempo! Você acaba de abrir um portal para o projeto **
 
 O objetivo deste projeto é apresentar os heróis de Chrono Trigger de uma forma visualmente impactante, utilizando animações fluidas e uma interface limpa, servindo como um excelente exemplo de uma Single Page Application (SPA) moderna.
 
-🔗 **[[Acesse a demonstração ao vivo aqui!](https://chrono-trigger-delta.vercel.app/)]** ## 📜 Link do Projeto
+🔗📜 **(https://chrono-trigger-delta.vercel.app/)** 
 
 Como desenvolvedor sênior, analisei a arquitetura e as escolhas tecnológicas deste repositório. O projeto demonstra um domínio claro de conceitos modernos de frontend:
 
@@ -108,6 +102,7 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 
 ## 💻 Site do Projeto
 [Resultado]()
+
 
 
 
