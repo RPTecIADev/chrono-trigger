@@ -1,7 +1,4 @@
 
-
-<a><img src="./assets/images/Captura de tela.jpg"></a>
-
 # ⏳ Chrono Trigger: Uma Viagem no Tempo com React ⏳
 
 <a><img src="./assets/images/readme.png"></a>
@@ -12,7 +9,10 @@ Saudações, viajante do tempo! Você acaba de abrir um portal para o projeto **
 
 O objetivo deste projeto é apresentar os heróis de Chrono Trigger de uma forma visualmente impactante, utilizando animações fluidas e uma interface limpa, servindo como um excelente exemplo de uma Single Page Application (SPA) moderna.
 
-🔗📜 **(https://chrono-trigger-delta.vercel.app/)** 
+## 💻🔗📜 Site do Projeto
+[Chrono](https://chrono-trigger-delta.vercel.app/)
+
+<a><img src="./assets/images/Captura de tela.jpg"></a>
 
 Como desenvolvedor sênior, analisei a arquitetura e as escolhas tecnológicas deste repositório. O projeto demonstra um domínio claro de conceitos modernos de frontend:
 
@@ -88,20 +88,15 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 -   [ ] **Consumo de API:** Migrar os dados dos personagens para uma API externa (Node.js, Firebase, etc.).
 -   [ ] **Adicionar mais conteúdo:** Incluir vilões, NPCs importantes ou até mesmo uma seção com a trilha sonora do jogo.
 -   [ ] **Testes Unitários:** Implementar testes com Vitest/Jest para garantir a estabilidade dos componentes.
+-   [ ] **Game ao-vivo:** Implementar um emulador rodando o jogo em pt-br.
 
 ---
 
-**Desenvolvido por RPTecIADev. Uma homenagem de um fã para outros fãs.**
-
-
 ## ✒️ Autor
 
-**Rafael Rodrigues Pereira** - *Este projeto é um Desafio do Devemdobro* - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
-**Uma homenagem de um fã para outros fãs.**
+**Rafael Rodrigues Pereira** - **Uma homenagem de um fã para outros fãs.** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
 
 
-## 💻 Site do Projeto
-[Resultado]()
 
 
 
