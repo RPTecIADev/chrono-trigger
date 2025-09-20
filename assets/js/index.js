@@ -10,7 +10,7 @@ precisamos criar duas variáveis no JS pra trabalhar com os elementos da tela
 vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem de personagens
 
 - remover a classe aberto só do cartão que está aberto
-- ao clicar em um pokedev da listagem pegamos o id desse pokedev pra saber qual cartão mostrar
+- ao clicar em um personagem da listagem pegamos o id desse personagem pra saber qual cartão mostrar
 -remover a classe ativo que marca o personagem selecionado
 -adicionar a classe ativo no item da lista selecionado 
 */
