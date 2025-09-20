@@ -1,5 +1,5 @@
 
-# ⏳ Chrono Trigger: Uma Viagem no Tempo com React ⏳
+# ⏳ Chrono Trigger: Uma Viagem no Tempo com HTML, CSS e JS ⏳
 
 <a><img src="./assets/images/readme.png"></a>
 
@@ -34,7 +34,6 @@ Para construir nossa máquina do tempo, utilizamos as seguintes tecnologias de p
 
 | Tecnologia        | Finalidade                 | Análise                                                                                                   |
 | :---------------- | :------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| **React** | Biblioteca principal da UI | A base para a criação de uma interface reativa e componentizada.                                          |
 | **Vite** | Build Tool                 | Escolha moderna que oferece um ambiente de desenvolvimento extremamente rápido (HMR) e um build otimizado. |
 | **Styled Components** | CSS-in-JS                  | Permite a criação de componentes com estilos encapsulados, facilitando a manutenção e a reutilização.   |
 | **Framer Motion** | Biblioteca de Animação     | Adiciona animações complexas de forma declarativa e performática, crucial para a experiência do usuário.  |
@@ -97,6 +96,7 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 ## ✒️ Autor
 
 **Rafael Rodrigues Pereira** - **Uma homenagem de um fã para outros fãs.** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
 
 
 
