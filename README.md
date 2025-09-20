@@ -62,7 +62,7 @@ Para executar este projeto em sua máquina local, você precisará ter o [Node.j
 
 1.  **Clone o repositório (Viaje para 1000 A.D.):**
     ```bash
-    git clone [https://github.com/RPTecIADev/chrono-trigger.git](https://github.com/RPTecIADev/chrono-trigger.git)
+    git clone https://github.com/RPTecIADev/chrono-trigger.git
     ```
 
 2.  **Acesse o diretório do projeto:**
@@ -97,6 +97,7 @@ Como em toda linha do tempo, existem futuros alternativos e possibilidades de ev
 ## ✒️ Autor
 
 **Rafael Rodrigues Pereira** - **Uma homenagem de um fã para outros fãs.** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
 
 
 
